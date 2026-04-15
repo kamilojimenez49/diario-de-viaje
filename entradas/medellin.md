@@ -9,3 +9,5 @@ Metrocable y Parque Arví: El sistema Metrocable (Línea L) conecta con esta res
 Comuna 13: Destacada por su transformación social, arte urbano y grafitis.
 Pueblito Paisa: Réplica de un pueblo tradicional antioqueño en la cima del Cerro Nutibara.
 Jardín Botánico y Parque Explora: Espacios verdes y culturales cerca del centro.
+## foto
+![](https://www.medellin.travel/wp-content/uploads/2020/07/MedeIsa_0000_street-3105232_1280-1.jpg)
