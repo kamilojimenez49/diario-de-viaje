@@ -9,3 +9,5 @@ Cultura e Historia: Recorre la Casa del Libro Total, la Catedral de la Sagrada F
 Aventura y Naturaleza: El parapente es una actividad estrella con vistas al Cañón del Chicamocha, además de caminatas ecológicas en el Jardín Botánico Eloy Valenzuela.
 Alrededores: Visita el casco histórico de Girón (pueblo colonial) y Floridablanca para probar las famosas obleas.
 Gastronomía: Prueba platos típicos como el mute santandereano, la pepitoria y las hormigas culonas.
+## foto
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Bry2EzMGpK2BZlO3u9TJMwDeJ45f1z8hOg&s)
