@@ -11,3 +11,5 @@ Alrededores: Visita el casco histórico de Girón (pueblo colonial) y Floridabla
 Gastronomía: Prueba platos típicos como el mute santandereano, la pepitoria y las hormigas culonas.
 ## foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0Bry2EzMGpK2BZlO3u9TJMwDeJ45f1z8hOg&s)
+## informacion adicional
+Bucaramanga, conocida como la "Ciudad Bonita" y el "mejor vividero de Colombia", destaca por tener más de 72 parques en su área metropolitana y ser un núcleo de desarrollo sostenible. Fundada en 1622, su nombre proviene de la lengua Guane, significando "casa del señor", y es famosa por su gastronomía, incluyendo la pepitoria y el mute santandereano
