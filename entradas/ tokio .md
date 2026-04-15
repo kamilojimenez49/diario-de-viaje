@@ -8,3 +8,5 @@ Naturaleza y Relax: Pasea por el Parque Ueno, especialmente bello en época de c
 Vistas Panorámicas: Sube a la Tokyo Tower o al Tokyo Skytree para vistas impresionantes de la ciudad. 
 ## foto
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvjPyrTJVAPc9KPEkwS5yoqwHXou7LlUun1w&s)
+## informacion adicional
+Tokio es una metrópoli fascinante que mezcla tradición y futurismo, destacando por ser el área metropolitana más poblada del mundo (más de 37 millones), tener la mayor cantidad de restaurantes con estrellas Michelin y albergar la estación de tren más concurrida, Shinjuku. Se caracteriza por sus más de 5,5 millones de máquinas expendedoras, la puntualidad extrema de sus trenes y la coexistencia de templos antiguos con rascacielos.
