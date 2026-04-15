@@ -5,3 +5,5 @@ Cartagena de Indias es el principal destino turístico de Colombia, ubicado a or
 visita la Ciudad Amurallada (Torre del Reloj, plazas), el Castillo de San Felipe y Getsemaní. Disfruta playas en Islas del Rosario, come ceviche en el centro y, obligatoriamente, pregunta precios antes de consumir para evitar cobros excesivos.
 ## foto
 ![](https://res.cloudinary.com/worldpackers/image/upload/c_fill,f_auto,q_auto,w_1024/v1/guides/article_cover/a4tvi7abdrqfcpd6bhcm?_a=BACAGSGT)
+## informacion adicional
+Cartagena de Indias, fundada en 1533, es una joya histórica del Caribe, reconocida por ser la primera ciudad colombiana en declarar su independencia el 11 de noviembre de 1811. Famosa por sus imponentes murallas y el Castillo de San Felipe, es Patrimonio de la Humanidad por la UNESCO y un bastión de cultura, gastronomía y arquitectura colonial.
